@@ -1,6 +1,6 @@
 ![Web Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/387821465_6553893881355846_3247474417813677666_n.png?stp=dst-png_p240x240&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=x6cyavLdkKEAX8XORY5&_nc_oc=AQkImCivbsW68w5bTqrUUC5pmXYBsORf0wRzOskFksa8yXb6Cr-RpfHvlNn61nam29M&_nc_ht=scontent.fdac27-1.fna&oh=00_AfDIt1TWG871oPWlneuULOE_ZRZsyx-3D7YjW9oColugTw&oe=652EFE53)
 
-# Hi there 👋, I am Ani Ghosal
+# Hi there 👋, I am Ani Ghosal from Bangladesh..I do content on devepolment.I really enjoy learning language like react, nextjs, redux etc.
 ## Web Developer
 
 As an aspiring Web Developer, my career objective is to utilize my technical skill and creativity to design and
