@@ -16,7 +16,7 @@ develop innovative and user-friendlywebsites.I aim to contribute enhance user ex
 
 
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 <table>
   <tr>
