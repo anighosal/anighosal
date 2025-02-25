@@ -6,7 +6,7 @@
 As an aspiring Web Developer, my career objective is to utilize my technical skill and creativity to design and
 develop innovative and user-friendlywebsites.I aim to contribute enhance user experiences and drive businessgrowth
 
-Skills:   REACT / JS / HTML / CSS/NEXTJS/TAILWIND CSS/ BOOTSTRAP
+Skills:   REACT / JS / HTML / CSS/NEXTJS/TAILWIND CSS/ BOOTSTRAP/nextjs/redux/typescript
 
 - 🌱 I’m currently learning Javascript,Nextjs, Redux 
 - 👯 I’m looking to collaborate on github 
