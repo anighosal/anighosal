@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://i.ibb.co.com/gL1m7BYC/Mern-Stack-Developer.png)" alt="Ani Ghosal - Web Developer" width="100%" />
+    <img src="https://i.ibb.co/gL1m7BYC/Mern-Stack-Developer.png" alt="Ani Ghosal - Web Developer" width="100%" />
   
   ## 👋 Hi, I'm Ani Ghosal!
   ### 💻 Web Developer | React | Next.js | Redux | TypeScript
